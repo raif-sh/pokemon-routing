@@ -66,7 +66,7 @@ const BlastoiseCard = {
   `
 };
 
-const VenusaurCard = {
+const VenusaurCard = {git add
   name: 'venusaur-card',
   template: `
     <div class="card card--venusaur has-text-weight-bold has-text-white">
